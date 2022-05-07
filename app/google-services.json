@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "293288139210",
+    "project_id": "fir-50a2a",
+    "storage_bucket": "fir-50a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293288139210:android:90ba415556ad33615c1733",
+        "android_client_info": {
+          "package_name": "com.mugerwa.amazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "293288139210-29c7hgh7lcc33q338fsbjmbhmlpprhi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA4GxVKpeopI7CBGyCq7mG_MtRn9ETa3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "293288139210-29c7hgh7lcc33q338fsbjmbhmlpprhi0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
